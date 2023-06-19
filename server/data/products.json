@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Koi Coloring Brush Pen",
+        "slug": "Koi-Coloring-Brush-Pen",
+        "description": "A brush pen with Water-based dyestuff ink. Ideal for lettering, drawing, illustrating, designing, and so on. 48 colors and colorless blender available.",
+        "price": 250000,
+        "mainImg": "https://www.craypas.com/global/wp-content/uploads/2016/08/kcbp-thumb.png",
+        "CategoryId": 1,
+        "AuthorId": 1
+      },
+      {
+        "name": "Pigma Micron",
+        "slug": "Pigma-Micron",
+        "description": "A reliable drawing pen beloved around the world. Introduced in 1982 as the pioneer of water-based pigment ink pen.",
+        "price": 98000,
+        "mainImg": "https://www.craypas.com/global/wp-content/uploads/2016/08/27b877885201e5d993a94e7e79e4f355.jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+      },
+      {
+        "name": "Pigma Micron PN",
+        "slug": "Pigma-Micron-PN",
+        "description": "The unique plastic nib gives various width of lines with archival pigment ink.",
+        "price": 110000,
+        "mainImg": "https://www.craypas.com/global/wp-content/uploads/2017/03/XSDK-PN49_ec-s-170417.png",
+        "CategoryId": 2,
+        "AuthorId": 1
+      },
+      {
+        "name": "Pigma Brush",
+        "slug": "Pigma-Brush",
+        "description": "Water-based pigment ink pen with brush nib . Ink dries quickly and does not bleed through a paper.",
+        "price": 98000,
+        "mainImg": "https://www.craypas.com/global/wp-content/uploads/2016/08/pigma-brush-thumb.png",
+        "CategoryId": 1,
+        "AuthorId": 1
+      },
+      {
+        "name": "Microperm",
+        "slug": "Microperm",
+        "description": "Extra fine point permanent marker. Fast drying alcohol-based ink. Line width: 0.2mm, 0.4mm, and 0.5mm.",
+        "price": 79000,
+        "mainImg": "https://www.craypas.com/global/wp-content/uploads/2016/08/microperm-thumb.png",
+        "CategoryId": 2,
+        "AuthorId": 1
+      }
+]

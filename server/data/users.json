@@ -1,0 +1,10 @@
+[
+    {
+        "username": "admintest",
+        "email": "test@gmail.com",
+        "password": "password",
+        "role": "Admin",
+        "phoneNumber": "081225204573",
+        "address": "Jl. Bikini Bottom No. 25"
+      }
+]
